@@ -103,3 +103,5 @@ heroku addons:add openredis:micro # $10/month
 git push heroku master
 heroku open
 ```
+
+Or [Click to deploy to Heroku](https://app-assembly.herokuapp.com/?src=https%3A%2F%2Fgithub.com%2Fbalansubr%2Fgeosockets%2Ftarball%2Fmaster%2F&json=geosockets_app.json) (Uses a demo app ```app-assembly``` that presents an UI for the deployment)
